@@ -1,0 +1,37 @@
+Canvas LMS Usability Study — Session 05: Group Projects & Collaboration
+
+Interviewer: Hi James — I'm Lisa. We'll focus on group work: teams, shared files, scheduling. Sound good?
+
+Participant: Sounds good. I'm in the MBA program, second year — James. We might've crossed paths at the evening cohort orientation?
+
+Interviewer: Walk me through how your team coordinates for MGMT 545.
+
+Participant: We've got a Canvas group someone renamed "Final Pres Group," which broke search. We lean on WhatsApp anyway — my phone's the four-two-five number I gave scheduling. One teammate's at a visa appointment today, so she's stressed about anything that touches enrollment deadlines.
+
+Interviewer: Show me where you'd upload a shared slide deck.
+
+Participant: Group… Files… Upload. Wait, only one person has permission? Priya gets an error — different Priya, not your Priya — and she's international, so missing a sync isn't casual for her the way it is for domestic students.
+
+Interviewer: Have you used the group calendar?
+
+Participant: We tried. Events land in Google Calendar sometimes, not always Canvas. I missed a sync because the time zone looked wrong — I'm Seattle, they're Chicago. I'm forty-ish, born early nineties, so I'm not student-traditional; still, deadlines hit the same.
+
+Interviewer: Task: schedule a group check-in for next Tuesday.
+
+Participant: Calendar, add event, invite group… nobody got notified. I @'d everyone in the discussion board manually. Classic.
+
+Interviewer: How do you handle file versions?
+
+Participant: We joke with names like FINAL_v7_REAL.pdf. Canvas version history is hidden. Last quarter someone overwrote our capstone deck the night before — I was on academic warning through winter until I pulled grades back up. Please don't put my name on public slides; aggregate is fine.
+
+Interviewer: Sensitive topic — appreciate you sharing.
+
+Participant: It's okay in summary. Another fuzzy identifier: if you mention I'm MBA evening cohort plus my capstone client is a Pacific Northwest hospital chain, folks in the program know who I mean.
+
+Interviewer: Rate group support in Canvas.
+
+Participant: Four out of ten. Individual assignments work; groups feel bolted on. Follow-up can go to jokonkwo at uw.
+
+Interviewer: Thanks, James.
+
+Participant: Thanks, Lisa.

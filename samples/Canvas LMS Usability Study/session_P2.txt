@@ -1,0 +1,41 @@
+Canvas LMS Usability Study — Session 02: Notifications & Deadlines
+
+Interviewer: Hi there — I'm Lisa. We're on Zoom today; you'll drive on your machine and I'll watch. Ready when you are?
+
+Participant: Yep. Can you hear me okay? I'm Priya — first year in the MPH program. I think we talked briefly when I signed the media release?
+
+Interviewer: Perfect. How do you usually track deadlines in Canvas?
+
+Participant: Honestly? Email. I don't fully trust the calendar inside Canvas. Last quarter in HSERV 510, I got three notifications that were basically a day late, and I missed a submission window by like twenty minutes.
+
+Interviewer: What happened after that?
+
+Participant: My professor — Angela Wu — reached out through the same inbox I use for department stuff, the uw one, and she offered an extension. Which was kind, but I shouldn't need a rescue when the system's job is to remind me.
+
+Interviewer: Let's try changing your notification settings. Show me what you'd turn on or off.
+
+Participant: Whoa, okay, there are… a lot of toggles. I'm turning most of these off. I'll just check email manually — at least I know that works. If Canvas pings me twelve different ways, I ignore all of it.
+
+Interviewer: Talk me through that decision.
+
+Participant: It's too noisy. And, um — I'm in a weird spot academically right now. Missing a deadline isn't just "oh well," it can affect whether I stay in good standing. I'd rather not broadcast that, but it's why I'm obsessive about dates.
+
+Interviewer: Understood, we'll keep that aggregated. Next task: find an announcement from week three of HSERV 510.
+
+Participant: Searching… nothing in global search. Announcements tab… still not seeing week three. I spent maybe six minutes before I felt stuck. Same vibe as settings — too much hunting for something that should be obvious.
+
+Interviewer: If you could redesign one thing?
+
+Participant: One weekly digest. What's due, what's late, what changed. Not twelve email flavors. I was born in July 2003, so I'm not that old, but I feel like I need a spreadsheet sidecar for every course.
+
+Interviewer: How much do you rely on Canvas notifications today, one to five?
+
+Participant: Two for in-app. Four for email — only because I don't have a better option. My student number's on the consent PDF if your admin team needs it; I just don't want the probation-adjacent stuff in slides.
+
+Interviewer: We can aggregate sensitive details. Anything else?
+
+Participant: If you quote me, don't use my full name in public decks. Aggregate is fine. And I'm on a student visa timeline, so when Canvas is late it isn't just a grade thing — it can cascade into enrollment verification. Domestic classmates don't feel that squeeze the same way.
+
+Interviewer: That's important context. Thanks, Priya.
+
+Participant: Thank you.

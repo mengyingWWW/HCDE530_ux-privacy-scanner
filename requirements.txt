@@ -1,0 +1,5 @@
+# UI
+streamlit>=1.32.0
+
+# AI PII detection
+anthropic>=0.40.0

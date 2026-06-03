@@ -1,0 +1,41 @@
+Canvas LMS Usability Study — Session 03: Accessibility & Accommodations
+
+Interviewer: Hi Marcus — I'm Lisa. We're in the DRC office so you can use your usual setup. How's your day going?
+
+Participant: Pretty good. I'm Marcus — I use a screen reader, and I have extended time baked into my accommodations letter from Disability Resources.
+
+Interviewer: Before tasks, how do accommodations usually reach your instructors?
+
+Participant: So the letter lists low vision and dyslexia, and it's signed by Janet Flores — you know, the coordinator whose contact is on every DRC PDF. But Canvas never has an obvious "upload letter here" path, so I still email professors separately each quarter like it's 2010.
+
+Interviewer: Try uploading that letter inside Canvas. Show me where you'd start.
+
+Participant: Account… profile… hmm. Nothing about accommodations. I tabbed through and I think I skipped an upload link because it wasn't labeled — the rotor didn't announce it clearly.
+
+Interviewer: How long did you search?
+
+Participant: Maybe five minutes? I'd rate that workflow one out of five. Email and the library databases behave; Canvas feels mouse-first.
+
+Interviewer: Next: request an extension on the practice quiz I shared.
+
+Participant: I found the assignment, but I don't hear "request extension" in the rotor — just "Submit." That's stressful because my multiplier is one-point-five through June, and professors forget unless I nag.
+
+Interviewer: Third task: check whether your midterm grade is visible only to you.
+
+Participant: I'm in informatics, trying to keep a three point two-ish average for grad apps. A classmate said they saw partial distributions last week and I… panicked? I can't tell what other students see from my view.
+
+Interviewer: Were you able to verify privacy?
+
+Participant: Partially. Grades look private to me, but I don't trust it. If you need to reach me, mwebb at uw works — same one I put on the intake form. Phone's a two-five-three number if reminders help.
+
+Interviewer: Anything you want excluded from shared research notes?
+
+Participant: Please strip my name, disability details, and GPA if notes leave the core team. Written consent is fine on your encrypted drive. Oh — ambiguous thing: when I say "my DRC contact," people might not realize that's identifying if you pair it with my department and quarter.
+
+Interviewer: Noted. How does Canvas compare to tools you use daily?
+
+Participant: I always need more time on timed quizzes; that's the whole point of accommodations. Canvas doesn't surface that unless I become the squeaky wheel. Another fuzzy one: mentioning my reader software plus my major narrows me down in a small program.
+
+Interviewer: Thanks for being so specific, Marcus.
+
+Participant: Happy to help if it improves accommodations visibility.

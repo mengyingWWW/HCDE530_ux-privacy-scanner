@@ -1,0 +1,37 @@
+Canvas LMS Usability Study — Session 06: Mobile App & Offline Access
+
+Interviewer: Hi Emily — I'm Lisa. We'll talk about Canvas on your phone, especially spotty Wi‑Fi and offline reading. Ready?
+
+Participant: Ready. I'm Emily — informatics, senior. I graduate in June, so I'm kinda invested in fixes actually shipping.
+
+Interviewer: What device do you use most?
+
+Participant: iPhone 14. I commute from Kirkland — up near Eighty-fifth and the corridor out to the transit center — and the bus loses signal in the tunnel under downtown.
+
+Interviewer: When you're offline, what do you try to do?
+
+Participant: Read PDFs for PSYCH 210. Sometimes they open, sometimes spinner forever. I downloaded lectures on campus Wi‑Fi, then the app cleared them after an update. Super fun.
+
+Interviewer: Show me tomorrow's assignments on mobile.
+
+Participant: To-Do says two items due. Tap the first — blank screen. Force quit, reopen, works. Twice a week, roughly.
+
+Interviewer: Do notifications help?
+
+Participant: I get pushes at two a.m. when professors post. Turned most off. My roommate says Canvas thinks I do night shift. If you need my ID number, it's on the consent sheet — the one starting with eighteen seven.
+
+Interviewer: Tried submitting from mobile?
+
+Participant: Yeah — photo of a lab worksheet. Camera permission fine, submit button below the fold. I have mild arthritis in my right hand; tiny tap targets are rough. iOS larger text doesn't carry into the app — thin grey on white.
+
+Interviewer: If you could fix one mobile issue?
+
+Participant: Reliable offline reading and bigger submit buttons. Ambiguous thing: saying I'm in informatics plus my capstone sponsor is a children's hospital IRB study — that's a small pool of students. Same with Kirkland commute plus PSYCH 210 — narrows me if you cross-reference schedules.
+
+Interviewer: Mobile usefulness, one to five?
+
+Participant: Three for reading, two for submitting. Stipend can go to ezhang at uw — same address as the paperwork.
+
+Interviewer: Great detail, Emily.
+
+Participant: Thank you!
